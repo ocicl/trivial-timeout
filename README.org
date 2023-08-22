@@ -4,6 +4,6 @@ portable and possibly dangerous timeout library for Common Lisp
 
 |---------+---------------------------------------------------|
 | source  | git:https://github.com/gwkkwg/trivial-timeout.git |
-| commit  | 512497c                                           |
+| commit  | e70d9b4                                           |
 | systems | trivial-timeout                                   |
 |---------+---------------------------------------------------|
