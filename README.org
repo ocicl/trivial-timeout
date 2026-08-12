@@ -7,4 +7,4 @@ portable and possibly dangerous timeout library for Common Lisp
 | commit  | e70d9b4                                           |
 | systems | trivial-timeout                                   |
 |---------+---------------------------------------------------|
- 
+  
